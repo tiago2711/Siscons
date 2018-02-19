@@ -1,0 +1,108 @@
+
+#navbar {
+    
+    background-color: #0097bc;
+ 
+}
+
+#asideColor {
+    
+    background-color: #f9f9f9;
+ 
+}
+
+ .side-nav li a:hover, .side-nav li a:checked {
+        outline: none;
+        background-color: #0097bc !important;
+    }
+
+#faColor {
+    color:#428bca;
+}
+
+#faColor:hover {
+    color:#FFF;
+}
+
+#textos {
+    color: #FFF;
+    
+}
+
+#textos:hover {
+    background-color: #0073b7;
+    
+}
+
+.tested:hover{
+     background-color: #0073b7;
+     
+}
+
+#footer1 {
+  padding: 15px ;
+  color: #006699;
+  text-align: right;
+  background-color: #0073b7;
+ 
+  
+  border-top: 1px solid #e5e5e5;
+  
+}
+
+
+#footer1 a {
+    color:#FFF;    
+}
+
+strong {
+    color:#FFF;  
+}
+
+
+#tabela{
+    width: 200%;
+}
+
+#textos:checked{
+  background-color:#0097bc   
+}
+
+#textos:visited {
+    background-color:#0097bc;
+    
+}
+
+#textos2 {
+    color: #000;
+ 
+    
+}
+
+#dropdownColor:hover {
+    
+   background-color: #428bca; 
+}
+
+#fundoBranco {
+    background-color: #FFF;
+}
+
+#selecionado {
+    background-color: #0073b7
+}
+
+#teste:hover {
+    
+    background-color: #FFF;
+}
+
+#logoNavbar {
+ position: absolute;
+ margin-top: -15px;
+  height: 98%;
+ 
+     
+  
+    
+}

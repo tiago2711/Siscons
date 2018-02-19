@@ -1,0 +1,145 @@
+
+h2 {
+    color: #0073b7;
+    
+}
+
+#img {
+   position: absolute;
+   margin-left: 500px;
+    height: 150px;
+}
+
+#form-help{
+    position: absolute;
+}
+
+#btn-submit{
+    margin-bottom: 10px;
+}
+
+.nameUser {
+    color: #000;
+}
+#s {
+    color: #000;
+}
+.sidebar-menu {
+    background-color: #FFF;
+}
+
+
+.sidebar {
+    background-color: #FFF;
+}
+
+
+#color-sidebar {
+    background-color: #FFF;
+}
+
+.header {
+    background-color: #008d4c;
+}
+
+#menu {
+    background-color: #fff;
+    color: #FFF;
+    font-weight: bold;
+}
+
+
+#active1 {
+    border-left: 4px solid;
+    border-left-color: #3366ff;
+    background-color: #dee2f3;
+}
+
+#active1:hover {
+    background-color: #ccccff;
+       
+}
+
+
+#t {
+    color: #fff;
+}
+
+.font-menu {
+    color: #000;
+}
+
+#atre:active {
+    background-color: #FFF;
+    
+}
+
+#atre:visited{
+    background-color: #FFF;
+}
+
+#teste{
+    background-color: #FFF;
+}
+
+#atre{
+    text-decoration: none;
+    color: #000;
+     
+}
+
+#atre:hover {
+     border-left: 4px solid;
+    border-left-color: #3366ff;
+   background-color: #ccccff; 
+}
+
+#lock {
+    color:  #3DA0DB;
+}
+
+#fa-home {
+    color: #3DA0DB;
+    
+}
+
+.imgefeito a img {
+    float: left;
+    margin: 0;
+    border: none;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ddd;
+} 
+
+#treeview {
+    background-color: #fff;
+    color: #000;
+}
+
+
+#fa-users {
+    color: #367fa9;
+}
+
+#fa-lock {
+    color: #367fa9;
+}
+
+#fa-text {
+    color: #367fa9;
+}
+
+#fa-star {
+    color: #367fa9;
+}
+
+
+#ss {
+    background-color: #fff;
+}
+
+#sign-out {
+    color: #367fa9;
+}
+
